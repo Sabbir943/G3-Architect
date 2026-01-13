@@ -213,6 +213,7 @@ margin-bottom: 10px;
 .sponsor-img img{
   width: 120px;
   height: 30px;
+  filter: grayscale(100%);
 }
 .footer-div{
   background-color: #FFF4E7;
