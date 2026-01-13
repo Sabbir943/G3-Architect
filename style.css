@@ -166,3 +166,26 @@ margin-bottom: 10px;
   height: 120px;
   margin-bottom: 30px;
 }
+.card{
+  width: 150px;
+  height: 150px;
+  border: 1px solid #FF900E;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+}
+.card-head{
+ display: grid;
+ grid-template-columns: repeat(4,2fr);
+ margin-top: 100px;
+ margin-bottom: 150px;
+ margin-left: 50px;
+}
+.fact-heading{
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.fact-para{
+  width: 500px;
+  color: #727272;
+}
