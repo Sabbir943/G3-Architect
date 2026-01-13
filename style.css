@@ -214,3 +214,14 @@ margin-bottom: 10px;
   width: 120px;
   height: 30px;
 }
+.footer-div{
+  background-color: #FFF4E7;
+  height: 80px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.footer-div p{
+  text-align: center;
+  padding-top: 30px;
+  color: #727272;
+}
