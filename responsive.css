@@ -25,4 +25,42 @@
     height: 100%;
     
 }
+.team {
+    
+    grid-template-columns: 1fr;
+    
+}
+.img-container{
+  
+  grid-template-columns: repeat(1 , 1fr);
+  grid-template-rows: repeat(1,1fr);
+  gap: 10px;
+}
+.our-feature{
+    text-align: center;
+}
+.btn-primary{
+  
+  
+  width: 120px;
+    height: 40px;
+    padding: 15px;
+    border-radius: 4px;
+    
+  
+  
+  
+}
+}
+@media screen  and (min-width:576px) and (max-width:992px){
+    .team {
+    
+    grid-template-columns: 1fr;
+
+    
+}
+.our-feature{
+    text-align: center;
+}
+    
 }
