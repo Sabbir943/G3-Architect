@@ -55,6 +55,7 @@
    
     flex-direction: column;
     gap: 60px;
+    margin-left: 0;
     
 }
 .destop {
@@ -72,7 +73,7 @@
  
  grid-template-columns: repeat(1,2fr);
  margin-top: 60px;
- margin-bottom: 140px;
+ margin-bottom: 90px;
  margin-left: 0;
  gap: 20px;
  
@@ -84,6 +85,19 @@
     
     padding: 20px;
     border-radius: 8px;
+}
+.sponsor-img{
+  
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
+.sponsor-img img{
+    width: 50%;
+    height: 50%;
+    
+    
 }
 
 }
@@ -123,10 +137,23 @@
  
  grid-template-columns: repeat(2,2fr);
  margin-top: 60px;
- margin-bottom: 140px;
+ margin-bottom: 90px;
  margin-left: 0;
  gap: 20px;
  
+}
+.sponsor-img{
+  
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
+.sponsor-img img{
+    width: 70%;
+    height: 70%;
+    
+    
 }
 
     
