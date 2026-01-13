@@ -1,0 +1,28 @@
+@media screen and (max-width:576px){
+    .head-text{
+        font-size: 20px;
+        display: inline;
+    }
+    .nav-bar{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .brand-text{
+        font-size: 25px;
+    }
+    .header-p{
+        font-size: 10px;
+    }
+    .btn {
+    
+    width: 120px;
+    height: 40px;
+    padding: 15px;
+    border-radius: 4px;
+    
+}
+    .banner-img {
+    height: 100%;
+    
+}
+}
