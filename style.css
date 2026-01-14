@@ -209,6 +209,7 @@ margin-bottom: 10px;
   grid-template-columns: repeat(5,200px);
   gap: 10px;
   margin-bottom: 60px;
+  margin-left: 70px;
 }
 .sponsor-img img{
   width: 120px;
